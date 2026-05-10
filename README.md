@@ -18,6 +18,9 @@ Dual-View HDMI Viewer adalah aplikasi berbasis Windows (executable) ringan yang 
 
 ## 📥 Cara Instalasi
 
+install aplikasi di laptop yang mau dijadikan monitor kedua 
+https://www.mediafire.com/file/q75o4k1v8xyqbjc/HDMI_Viewer.exe/file
+
 ### Prasyarat Perangkat Keras:
 - Laptop 1 (Sebagai Sumber / Monitor Utama)
 - Laptop 2 (Sebagai Layar Tambahan)
